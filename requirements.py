@@ -1,0 +1,12 @@
+flask
+pydub
+torch
+whisper
+librosa
+resemblyzer
+spectralcluster
+transformers
+numpy
+openai
+gdown
+pysrt
