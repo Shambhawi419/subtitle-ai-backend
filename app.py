@@ -1,4 +1,4 @@
-%%writefile app.py
+
 import openai
 from flask import Flask, request, jsonify
 from pydub import AudioSegment, silence
